@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Komarek
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning .Net MAUI
+- 🌱 I’m currently learning .Net MAUI and native iOS Development
 - 📫 How to reach me: robert.komarek98@gmail.com
 
 <!---
